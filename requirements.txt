@@ -1,0 +1,5 @@
+django==1.10.7
+django-blog-zinnia==0.18.1
+zinnia-theme-bootstrap==0.5.1
+django-app-namespace-template-loader==0.4.1
+zinnia-wysiwyg-ckeditor==1.3
